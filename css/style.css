@@ -1,0 +1,15 @@
+/* UTILITIES */
+
+[class^="container"] {
+  border: 1px dashed black;
+  background-color: lightblue;
+}
+
+[class^="row"] {
+  border: 1px dashed red;
+}
+
+[class^="col"] {
+  background-color: #f1d2e7;
+  border: 1px dashed #d0a8eb;
+}
